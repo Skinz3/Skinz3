@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on nova
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=skinz3&repo=nova)](https://github.com/anuraghazra/github-readme-stats
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=skinz3&repo=Nova.Compiler)](https://github.com/anuraghazra/github-readme-stats
 - 🌱 I’m currently learning C++
 - 💬 Ask me about anything on discord : skinz3#1128
 
