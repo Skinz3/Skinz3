@@ -6,7 +6,7 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=skinz3&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skinz3&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skinz3&layout=compact)]()
 
 
 
