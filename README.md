@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=skinz3)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=skinz3&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 - 🔭 I’m currently working on ...
