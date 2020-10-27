@@ -7,7 +7,7 @@ I code mainly games, utils softwares and some utils libraries.
 
 ### Technologies I use :
 
-![CS](https://img.shields.io/badge/c_%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white)
+![CS](https://img.shields.io/badge/CSharp-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity%20-%23100000.svg?&style=for-the-badge&logo=unity&logoColor=white)
 ![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)
