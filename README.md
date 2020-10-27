@@ -26,4 +26,4 @@
 
 ### Contact : 
 
-![Discord](https://img.shields.io/badge/%3CSkinz#1128%3E%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)
+![Discord](https://img.shields.io/badge/%3CSkinz1128%3E%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)
