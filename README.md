@@ -8,16 +8,16 @@ I have multiple active projects that I've not publish yet, be patient :)
 
 ### Technologies I use :
 
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java&logoColor=E98A33)
-![Gradle](https://img.shields.io/badge/-Gradle-black?style=flat-square&logo=gradle)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=node.js)
-![NPM](https://img.shields.io/badge/NPM-black?style=flat-square&logo=npm)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript&logoColor=3178C6)
-![WebPack](https://img.shields.io/badge/-Webpack-000000?style=flat-square&logo=webpack)
-![Deno](https://img.shields.io/badge/-Deno-black?style=flat-square&logo=deno)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=github)
+![CSharp](https://img.shields.io/badge/c%20sharp-%23239120.svg?&style=flat-square&logo=c%20sharp&logoColor=white)
+![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)
+![Php](https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)
+![Unity](https://img.shields.io/badge/unity%20-%23100000.svg?&style=for-the-badge&logo=unity&logoColor=white)
+![Git](https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white)
+![Uber](https://img.shields.io/badge/Uber%20Eats-5FB709?logo=uber-eats&logoColor=white&style=for-the-badge)
+
+
 
 
 ![Skinz3 github stats](https://github-readme-stats.vercel.app/api?username=skinz3&show_icons=true)
