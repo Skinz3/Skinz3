@@ -1,8 +1,8 @@
 ## Hi there, I'm Skinz
 
-### What do I do ?
 I'm a young french developer, coding in C#, Java, C++ (and briefly other languages).
-I code mainly games, utils softwares and some utils libraries.
+I am studying for a master's degree at the University of Rennes 1, on the Beaulieu campus.
+I code mainly softwares, language, and some utils libraries.
 
 
 ### Technologies I use :
