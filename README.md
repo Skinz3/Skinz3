@@ -31,5 +31,5 @@
 
 
 ## Contact 
-[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
+
 marius.lumbroso@etudiant.univ-rennes1.fr
