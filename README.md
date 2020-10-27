@@ -13,6 +13,9 @@ I code mainly games, utils softwares and some utils libraries.
 ![Php](https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity%20-%23100000.svg?&style=for-the-badge&logo=unity&logoColor=white)
 ![Git](https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white)
+![Mongo](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
+![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?&style=for-the-badge&logo=scala&logoColor=white)
+![Html](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 
 
 
