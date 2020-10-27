@@ -15,7 +15,7 @@
 
 
 
-### Technologies :
+## Technologies 
 
 ![Unity](https://img.shields.io/badge/unity%20-%23100000.svg?&style=for-the-badge&logo=unity&logoColor=white)
 ![Pytorch](https://img.shields.io/badge/PyTorch%20-%23EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white)
@@ -24,11 +24,11 @@
 ![Keras](https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-b068a8.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Stats :
+## Stats 
 
 ![Skinz3 github stats](https://github-readme-stats.vercel.app/api?username=skinz3&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&icon_color=fff)
 
 
-### Contact : 
+## Contact 
 
 marius.lumbroso@etudiant.univ-rennes1.fr
