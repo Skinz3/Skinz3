@@ -27,4 +27,4 @@
 ### Contact : 
 
 ![Discord](https://img.shields.io/badge/Skinz%231128%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)
-![Youtube](https://img.shields.io/badge/LeafBurst%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white)
+![Youtube](https://img.shields.io/badge/Leaf_Burst%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white)
