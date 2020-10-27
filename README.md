@@ -3,7 +3,7 @@
 * I'm a young french developer, coding in C#, Java, C++ (and briefly other languages). I code mainly softwares, language, and some utils libraries.
 * I am studying for a master's degree at the **University of Rennes 1**, on the **Beaulieu** campus.
 
-### Programming languages :
+## Programming languages 
 
 ![CS](https://img.shields.io/badge/.Net-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Html](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
