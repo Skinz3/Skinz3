@@ -15,10 +15,15 @@
 ![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?&style=for-the-badge&logo=scala&logoColor=white)
 ![Php](https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white)
-![Git](https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![Mongo](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
 
 
 ### Stats :
 
 ![Skinz3 github stats](https://github-readme-stats.vercel.app/api?username=skinz3&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&icon_color=fff)
+
+
+### Contact : 
+
+![Discord](https://img.shields.io/badge/%3CSkinz#1128%3E%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)
