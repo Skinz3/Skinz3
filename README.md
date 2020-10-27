@@ -24,6 +24,7 @@
 ![Mongo](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-b068a8.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![.Net)(https://img.shields.io/badge/.NET-%23239120.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ## Stats 
 
