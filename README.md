@@ -1,6 +1,6 @@
 ## Hi there
 
-* I'm a french developer, coding in C#, Java, C++ (and briefly other languages). I code mainly softwares, language, and some utils libraries.
+* I'm a french developer, coding in C#, C++, Java, Python (and briefly other languages). I code mainly softwares, programming languages, games and some utils libraries. I particularly like data processing and simulation, and compilation
 * I am studying for a master's degree at the **University of Rennes 1**, on the **Beaulieu** campus.
 
 ## Main programming languages 
