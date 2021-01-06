@@ -35,3 +35,4 @@
 
 * **Mail:** marius.lumbroso@etudiant.univ-rennes1.fr
 * **Discord:** Skinz#1128 
+* **Youtube:** ![Skinz3 github stats](https://www.youtube.com/channel/UCtJh00haAmCR4isDu8LVexA)  
