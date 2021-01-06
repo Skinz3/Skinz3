@@ -26,7 +26,9 @@
 ![MySQL](https://img.shields.io/badge/mysql-b068a8.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-%230059b3.svg?&style=for-the-badge)
 
-![SE](https://img.shields.io/badge/Software_Engineering-blue)
+![ITEM](https://img.shields.io/badge/Software_Engineering-blue)
+![ITEM](https://img.shields.io/badge/Networking-blue)
+![ITEM](https://img.shields.io/badge/Video Games-blue)
 
 ## Stats 
 
