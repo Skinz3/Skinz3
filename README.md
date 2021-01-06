@@ -33,4 +33,5 @@
 
 ## Contact 
 
-marius.lumbroso@etudiant.univ-rennes1.fr
+**Mail:** marius.lumbroso@etudiant.univ-rennes1.fr
+**Discord:** Skinz#1128 
