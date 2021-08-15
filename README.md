@@ -7,7 +7,7 @@
 
 ![Python](https://img.shields.io/badge/python-%E2%98%85%E2%98%85%E2%98%85-lightgrey?labelColor=3776AB&amp;logo=Python&amp;style=for-the-badge&amp;logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/python-lightgrey?labelColor=3776AB&amp;logo=Python&amp;style=for-the-badge&amp;logoColor=white)
 ![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?&style=for-the-badge&logo=scala&logoColor=white)
 ![Html](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
