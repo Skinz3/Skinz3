@@ -5,14 +5,8 @@
 
 ## Main programming languages 
 
-![Python](https://img.shields.io/badge/python-lightgrey?labelColor=3776AB&amp;logo=Python&amp;style=for-the-badge&amp;logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/python-lightgrey?labelColor=3776AB&amp;logo=Python&amp;style=for-the-badge&amp;logoColor=white)
-![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?&style=for-the-badge&logo=scala&logoColor=white)
-![Html](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
-![Php](https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white)
-![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?&style=for-the-badge&logo=lua&logoColor=white)
+![python](https://img.shields.io/badge/python-★★-lightgrey?labelColor=3776AB&logo=Python&style=for-the-badge&logoColor=white)
+![csharp](https://img.shields.io/badge/csharp-★★★-lightgrey?labelColor=#1d9923&logo=Csharp&style=for-the-badge&logoColor=white)
 
 
 
