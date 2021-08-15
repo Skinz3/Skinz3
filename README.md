@@ -8,10 +8,10 @@
 
 ## Main programming languages 
 
-![csharp](https://img.shields.io/badge/CSharp-%E2%98%85%E2%98%85%E2%98%85-lightgrey?labelColor=1d9923&logo=CSharp&style=for-the-badge&logoColor=white)
-![python](https://img.shields.io/badge/python-★★-lightgrey?labelColor=3776AB&logo=Python&style=for-the-badge&logoColor=white)
-
-
+![csharp](https://img.shields.io/badge/CSharp-★★★-lightgrey?labelColor=1d9923&logo=CSharp&style=for-the-badge&logoColor=white)
+![python](https://img.shields.io/badge/python-★★☆-lightgrey?labelColor=3776AB&logo=Python&style=for-the-badge&logoColor=white)
+![javascript](https://img.shields.io/badge/javascript-★★☆-lightgrey?labelColor=F7DF1E&logo=JavaScript&style=for-the-badge&logoColor=black)
+![cpp](https://img.shields.io/badge/C++-★★☆-lightgrey?labelColor=pinkE&logo=Cpp&style=for-the-badge&logoColor=black)
 
 
 ## Technologies 
