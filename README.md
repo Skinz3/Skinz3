@@ -4,9 +4,6 @@
 * I am studying for a master's degree at the **University of Rennes 1**, **Beaulieu**.
 
   <p align="center">
-    Youtube stats badges for your Github profile README
-    <br />
-    <br />
     <a href="https://www.youtube.com/channel/UCipSxT7a3rn81vGLw9lqRkg?sub_confirmation=1">
       <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/youtube-api/subscribers-badge.php?label=Subscribers&style=for-the-badge&color=red&labelColor=ce4630"/></a> 
     <a href="https://www.youtube.com/channel/UCipSxT7a3rn81vGLw9lqRkg">
