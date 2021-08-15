@@ -3,12 +3,8 @@
 * I code mainly softwares, programming languages, games and some utils libraries. I particularly like data processing, simulation, and compilation
 * I am studying for a master's degree at the **University of Rennes 1**, **Beaulieu**.
 * I am a piano player, do not hesitate to consult my youtube channel! 
-  <p >
-    <a href="https://www.youtube.com/channel/UCtJh00haAmCR4isDu8LVexA">
-      <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/youtube-api/subscribers-badge.php?label=Subscribers&style=for-the-badge&color=red&labelColor=ce4630"/></a> 
-   
-  </p>
-</p>
+
+[![ytb](https://img.shields.io/badge/Skinz3-ce4630?labelColor=red&logo=Youtube&style=for-the-badge&logoColor=white)](https://www.youtube.com/channel/UCtJh00haAmCR4isDu8LVexA)
 
 ## Main programming languages 
 
