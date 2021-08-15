@@ -5,8 +5,9 @@
 
 ## Main programming languages 
 
+![csharp](https://img.shields.io/badge/CSharp-%E2%98%85%E2%98%85%E2%98%85-lightgrey?labelColor=1d9923&logo=CSharp&style=for-the-badge&logoColor=white)
 ![python](https://img.shields.io/badge/python-★★-lightgrey?labelColor=3776AB&logo=Python&style=for-the-badge&logoColor=white)
-![csharp](https://img.shields.io/badge/C#-★★★-lightgrey?labelColor=#1d9923&logo=C#&style=for-the-badge&logoColor=white)
+
 
 
 
