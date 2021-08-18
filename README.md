@@ -33,4 +33,4 @@
 
 
 ![](https://komarev.com/ghpvc/?username=Skinz3&style=flat-square&label=Views)
-![](https://badges.pufler.dev/visits/Skinz3/Skinz3?color=black&logo=github&style=flat-square)
+
