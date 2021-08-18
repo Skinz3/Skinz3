@@ -1,7 +1,7 @@
 
 ## Hi there
 
-* I code mainly softwares, programming languages, games and some utils libraries. I particularly like data processing, simulation, and compilation
+* I code mainly softwares, tools, games and some utils libraries. I particularly like data processing and simulation
 * I am studying for a master's degree at the **University of Rennes 1**, **Beaulieu**.
 * I am a piano player, do not hesitate to consult my youtube channel!  
 
