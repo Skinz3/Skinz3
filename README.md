@@ -5,7 +5,7 @@
 * I am studying for a master's degree at the **University of Rennes 1**, **Beaulieu**.
 * I am a piano player, do not hesitate to consult my youtube channel!  
 
- [![ytb](https://img.shields.io/badge/Skinz3-ce4630?labelColor=red&logo=Youtube&style=for-the-badge&logoColor=white)](https://www.youtube.com/channel/UCtJh00haAmCR4isDu8LVexA) ![](https://komarev.com/ghpvc/?username=Skinz3&style=flat-square&label=Profile_Views)
+ [![ytb](https://img.shields.io/badge/Skinz3-ce4630?labelColor=red&logo=Youtube&style=for-the-badge&logoColor=white)](https://www.youtube.com/channel/UCtJh00haAmCR4isDu8LVexA)
 
 ## Main programming languages 
 
@@ -30,7 +30,7 @@
 * **Mail:** marius.lumbroso@etudiant.univ-rennes1.fr
 * **Discord :** Skinz#1559
 * **Youtube:** [My Channel](https://www.youtube.com/channel/UCtJh00haAmCR4isDu8LVexA)
-
+*  ![](https://komarev.com/ghpvc/?username=Skinz3&style=flat-square&label=Profile_Views)
 
 
 
