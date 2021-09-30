@@ -9,21 +9,23 @@
 
 ## Main programming languages 
 
-![csharp](https://img.shields.io/badge/CSharp-★★★-lightgrey?labelColor=1d9923&logo=CSharp&style=for-the-badge&logoColor=white)
-![python](https://img.shields.io/badge/python-★★☆-lightgrey?labelColor=3776AB&logo=Python&style=for-the-badge&logoColor=white)
-![javascript](https://img.shields.io/badge/javascript-★★☆-lightgrey?labelColor=F7DF1E&logo=JavaScript&style=for-the-badge&logoColor=black)
+![C Sharp Badge](https://img.shields.io/badge/C%20Sharp-239120?logo=csharp&logoColor=fff&style=for-the-badge)
+![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=for-the-badge)
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
 ![Java Badge](https://img.shields.io/badge/Java-007396?logo=java&logoColor=fff&style=for-the-badge)
+![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
 
 
 ## Technologies 
 
-![Unity](https://img.shields.io/badge/unity%20-%23100000.svg?&style=for-the-badge&logo=unity&logoColor=white)
+![Unity Badge](https://img.shields.io/badge/Unity-000?logo=unity&logoColor=fff&style=for-the-badge)
 ![Pytorch](https://img.shields.io/badge/PyTorch%20-%23EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![Mongo](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-b068a8.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-%230059b3.svg?&style=for-the-badge)
+![SQLite Badge](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=fff&style=for-the-badge)
+![.NET Badge](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff&style=for-the-badge)
 
 ## Contact 
 
