@@ -40,13 +40,6 @@
 
 ## Contact 
 
-| Plateform        | Value           |
-| ------------- |:-------------:|
-| Email      | marius.lumbroso@etudiant.univ-rennes1.fr | 
-| Discord | ```Skinz#1559``` |
-| Youtube |  [My Channel](https://www.youtube.com/channel/UCtJh00haAmCR4isDu8LVexA) | 
-
-
-
-
+Email  : <marius.lumbroso@etudiant.univ-rennes1.fr>
+Discord : ```Skinz#1559``` 
 
