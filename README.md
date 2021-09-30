@@ -30,6 +30,7 @@
 ![XAML Badge](https://img.shields.io/badge/XAML-0C54C2?logo=xaml&logoColor=fff&style=for-the-badge)
 ![SFML Badge](https://img.shields.io/badge/SFML-8CC445?logo=sfml&logoColor=fff&style=for-the-badge)
 ![RabbitMQ Badge](https://img.shields.io/badge/RabbitMQ-F60?logo=rabbitmq&logoColor=fff&style=for-the-badge)
+![Apache Badge](https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=fff&style=for-the-badge)
 
 ## Contact 
 
