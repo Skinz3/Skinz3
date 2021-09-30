@@ -17,7 +17,7 @@
 ![PHP Badge](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=for-the-badge)
 
 
-## Technologies 
+## Most used technologies
 
 ![SFML Badge](https://img.shields.io/badge/SFML-8CC445?logo=sfml&logoColor=fff&style=for-the-badge)
 ![Unity Badge](https://img.shields.io/badge/Unity-000?logo=unity&logoColor=fff&style=for-the-badge)
