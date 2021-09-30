@@ -33,6 +33,9 @@
 ![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge)
 ![Apache Badge](https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=fff&style=for-the-badge)
 ![D3.js Badge](https://img.shields.io/badge/D3.js-F9A03C?logo=d3dotjs&logoColor=fff&style=for-the-badge)
+![Visual Studio Badge](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&style=for-the-badge)
+![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=for-the-badge)
+![Eclipse IDE Badge](https://img.shields.io/badge/Eclipse%20IDE-2C2255?logo=eclipseide&logoColor=fff&style=for-the-badge)
 
 ## Contact 
 
