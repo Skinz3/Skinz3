@@ -5,7 +5,7 @@
 * I am studying for a master's degree at the **University of Rennes 1**, **Beaulieu**.
 * I am a piano player, do not hesitate to consult my youtube channel ! 😀
 
- [![ytb](https://img.shields.io/badge/Skinz3-ce4630?labelColor=red&logo=Youtube&style=for-the-badge&logoColor=white)](https://www.youtube.com/channel/UCtJh00haAmCR4isDu8LVexA)
+ [![ytb](https://img.shields.io/badge/Skinz3-ce4630?labelColor=red&logo=Youtube&style=for-the-badge&logoColor=white)](https://www.youtube.com/c/skinz3)
 
 ## Main programming languages 
 
