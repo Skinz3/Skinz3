@@ -2,7 +2,7 @@
 ## Hi there
 
 * I code mainly softwares, tools, games and some utils libraries. I particularly like **data processing** and **simulation**. 
-* I am studying for a master's degree at the **University of Rennes 1**, **Beaulieu**.
+* Currently working for **https://www.domismart.com/**.
 * I am a piano player, do not hesitate to consult my youtube channel ! 😀
 
  [![ytb](https://img.shields.io/badge/Skinz3-ce4630?labelColor=red&logo=Youtube&style=for-the-badge&logoColor=white)](https://www.youtube.com/c/skinz3)
