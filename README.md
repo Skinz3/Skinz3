@@ -2,7 +2,7 @@
 ## Hi there
 
 * I code mainly softwares, tools, games and some utils libraries. I particularly like **data processing** and **simulation**.
-* Free collaborative notes ? join [https://niddle-web.com](https://niddle-web.com)) 
+* Free collaborative notes ? join [https://niddle-web.com](https://niddle-web.com)
 * I am a piano player, do not hesitate to consult my youtube channel ! 😀
 
  [![ytb](https://img.shields.io/badge/Skinz3-ce4630?labelColor=red&logo=Youtube&style=for-the-badge&logoColor=white)](https://www.youtube.com/c/skinz3)
