@@ -8,8 +8,10 @@
  
 ## Current project
 
+  <a href="url"><img src="https://i.imgur.com/fRQ8KKA.png" height="auto" width="200" style="border-radius:50%"></a>
+  
 * Free collaborative notes ? join [https://niddle-web.com](https://niddle-web.com)
- ![Niddle](https://i.imgur.com/fRQ8KKA.png)
+
 
 ## Main programming languages 
 
