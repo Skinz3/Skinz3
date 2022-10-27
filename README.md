@@ -7,8 +7,6 @@
  [![ytb](https://img.shields.io/badge/Skinz3-ce4630?labelColor=red&logo=Youtube&style=for-the-badge&logoColor=white)](https://www.youtube.com/c/skinz3)
  
 ## Current project
-
-  <a href="url"><img src="https://i.imgur.com/fRQ8KKA.png" height="auto" width="200" style="border-radius:50%"></a>
   
 * Free collaborative notes ? join [https://niddle-web.com](https://niddle-web.com)
 
