@@ -3,7 +3,7 @@
 
 * I code mainly softwares, tools, games and some utils libraries. I particularly like **data processing** and **simulation**.
 * Free collaborative notes ? join [https://niddle-web.com](https://niddle-web.com)
-* ![Niddle](https://i.imgur.com/fRQ8KKA.png)
+ ![Niddle](https://i.imgur.com/fRQ8KKA.png)
 * 
 * I am a piano player, do not hesitate to consult my youtube channel ! 😀
 
