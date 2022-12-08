@@ -8,7 +8,7 @@
  
 ## Current project
   
-* Free collaborative notes ? join [http://niddle-web.com](https://niddle-web.com)
+* Want to write down some ideas?  ? join [http://niddle-web.com](https://niddle-web.com)
 
 
 ## Main programming languages 
