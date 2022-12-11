@@ -8,7 +8,7 @@
  
 ## Current project
   
-### Want to write down some ideas?  ? join [http://niddle-web.com](https://niddle-web.com)
+### [http://niddle-web.com](https://niddle-web.com)
 
 
 ## Main programming languages 
