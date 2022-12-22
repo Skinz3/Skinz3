@@ -45,6 +45,6 @@
 
 ## Contact 
 
-- Email  : <marius.lumbroso@etudiant.univ-rennes1.fr>
+- Email  : <lumbroso.marius@gmail.com>
 - Discord : ```Skinz#1559``` 
 
