@@ -5,6 +5,8 @@
 * I am a piano player, do not hesitate to consult my youtube channel ! 😀
 
  [![ytb](https://img.shields.io/badge/Skinz3-ce4630?labelColor=red&logo=Youtube&style=for-the-badge&logoColor=white)](https://www.youtube.com/c/skinz3)
+
+https://fr.linkedin.com/in/marius-lumbroso-2bb66621a
  
 ## Current project
   
