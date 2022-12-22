@@ -6,7 +6,7 @@
 
  [![ytb](https://img.shields.io/badge/Skinz3-ce4630?labelColor=red&logo=Youtube&style=for-the-badge&logoColor=white)](https://www.youtube.com/c/skinz3)
 
-https://fr.linkedin.com/in/marius-lumbroso-2bb66621a
+[![lkn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://fr.linkedin.com/in/marius-lumbroso-2bb66621a)
  
 ## Current project
   
