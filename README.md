@@ -1,16 +1,13 @@
 
 ## Hi there
 
-* I code mainly softwares, tools, games and some utils libraries. I particularly like **data processing** and **simulation**.
+* Hey, im a freelance, i code mainly softwares, tools, games and some utils libraries. I particularly like **data processing** and **simulation**.
 * I am a piano player, do not hesitate to consult my youtube channel ! 😀
 
  [![ytb](https://img.shields.io/badge/Youtube-ce4630?labelColor=red&logo=Youtube&style=for-the-badge&logoColor=white)](https://www.youtube.com/c/skinz3)
 
 [![lkn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://fr.linkedin.com/in/marius-lumbroso-2bb66621a)
  
-## Current project
-  
-##  https://niddle-web.com
 
 
 ## Main programming languages 
