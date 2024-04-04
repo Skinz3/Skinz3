@@ -1,7 +1,7 @@
 
 ## Hi there
 
-* Hey, im a freelancer, i code mainly softwares, tools, games and some utils libraries. I particularly like **data processing** and **language modeling**.
+* Hey, im a fullstack freelancer, i code mainly libraries, diverse type of tools. I particularly like **data processing** and **language modeling**.
 * I am a piano player, do not hesitate to consult my youtube channel ! 😀
 
  [![ytb](https://img.shields.io/badge/Youtube-ce4630?labelColor=red&logo=Youtube&style=for-the-badge&logoColor=white)](https://www.youtube.com/c/skinz3)
