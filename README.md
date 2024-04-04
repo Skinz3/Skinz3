@@ -22,6 +22,7 @@
 
 ## Most used technologies
 
+![.NET](	https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![SFML Badge](https://img.shields.io/badge/SFML-8CC445?logo=sfml&logoColor=fff&style=for-the-badge)
 ![Unity Badge](https://img.shields.io/badge/Unity-000?logo=unity&logoColor=fff&style=for-the-badge)
 ![Pytorch](https://img.shields.io/badge/PyTorch%20-%23EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white)
