@@ -4,7 +4,7 @@
 * Hey, im a fullstack freelancer, i code mainly libraries, diverse type of tools. I particularly like **data processing** and **language modeling**. I have been working in C# and around the .NET ecosystem for over 8 years now.
 * I am a piano player, do not hesitate to consult my youtube channel ! 🎹
 
-* **Current Project: ** https://ivory-app.com 🎹
+* **Current Project:** https://ivory-app.com 🎹
 
  [![ytb](https://img.shields.io/badge/Youtube-ce4630?labelColor=red&logo=Youtube&style=for-the-badge&logoColor=white)](https://www.youtube.com/c/skinz3)
 
