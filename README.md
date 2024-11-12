@@ -51,7 +51,6 @@ https://ivory-app.com 🎹.
 
 - Email  : <lumbroso.marius@gmail.com>
 - Discord : ```skinz3```
-[![ytb](https://img.shields.io/badge/Youtube-ce4630?labelColor=red&logo=Youtube&style=for-the-badge&logoColor=white)](https://www.youtube.com/c/skinz3)
-
-[![lkn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://fr.linkedin.com/in/marius-lumbroso-2bb66621a)
+- [![ytb](https://img.shields.io/badge/Youtube-ce4630?labelColor=red&logo=Youtube&style=for-the-badge&logoColor=white)](https://www.youtube.com/c/skinz3)
+- [![lkn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://fr.linkedin.com/in/marius-lumbroso-2bb66621a)
 
