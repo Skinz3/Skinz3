@@ -7,8 +7,8 @@
 ### **Current Project:** 
 
 Piano transcription / learning app using deep neural networks.
-https://ivory-app.com 🎹. ![alt text](https://i.imgur.com/7pu1iUG.png)
-
+https://ivory-app.com 🎹.  
+<img src="[drawing.jpg](https://i.imgur.com/7pu1iUG.png)" alt="drawing" width="200"/>
 
 [![ytb](https://img.shields.io/badge/Youtube-ce4630?labelColor=red&logo=Youtube&style=for-the-badge&logoColor=white)](https://www.youtube.com/c/skinz3)
 
