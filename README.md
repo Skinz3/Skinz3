@@ -10,6 +10,13 @@ Piano transcription / learning app using deep neural networks.
 https://ivory-app.com 🎹.  
 <img src="https://i.imgur.com/7pu1iUG.png" alt="drawing" width="200"/>
 
+<iframe
+  id="inlineFrameExample"
+  title="Inline Frame Example"
+  width="300"
+  height="200"
+  src="https://studio.ivory-app.com/player?id=1130&minimal=true">
+</iframe>
 
 
 
