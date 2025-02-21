@@ -8,7 +8,7 @@ I'm a full-stack freelancer with over eight years of experience in C# and the .N
 > I'm currently working on Ivory, a piano app that transcribes audio recordings into piano notes using state-of-the-art neural networks to tackle this fascinating challenge 🎹.
 
   <img href="https://ivory-app.com" src="https://i.imgur.com/JRKLkiS.png" alt="drawing" width="200"/>
-  <div> <a href="https://ivory-app.com">https://ivory-app.com</a></div>
+   <a href="https://ivory-app.com">https://ivory-app.com</a>
 
 
 
