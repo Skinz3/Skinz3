@@ -5,11 +5,12 @@ I'm a full-stack freelancer with over eight years of experience in C# and the .N
 
 ### **Current Project:** 
 
-<div style="display:flex;flex-grow:1;flex-direction:column;align-items:center;justify-content:center;gap:12px">
+<div style="display:flex;flex-grow:1;flex-direction:column;align-items:start;justify-content:start;gap:12px">
   <span>Piano transcription / learning app using deep neural networks.</span>
-  <div> <a href="https://ivory-app.com">https://ivory-app.com 🎹.</a></div>
+  
  
   <img src="https://i.imgur.com/JRKLkiS.png" alt="drawing" width="200"/>
+  <div> <a href="https://ivory-app.com">https://ivory-app.com 🎹.</a></div>
 </div>
 
 
