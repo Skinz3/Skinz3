@@ -5,15 +5,11 @@ I'm a full-stack freelancer with over eight years of experience in C# and the .N
 
 ### **Current Project:** 
 
-> Im currently working on Ivory, its a piano transcription tool / learning app using deep neural networks to transcribe piano notes from an audio file.
+> I'm currently working on Ivory, a piano app that transcribes audio recordings into piano notes using state-of-the-art neural networks to tackle this fascinating challenge 🎹.
 
-<div style="display:flex;flex-grow:1;flex-direction:column;align-items:center;justify-content:center;gap:12px">
- 
-  
- 
-  <img src="https://i.imgur.com/JRKLkiS.png" alt="drawing" width="200"/>
-  <div> <a href="https://ivory-app.com">https://ivory-app.com 🎹.</a></div>
-</div>
+  <img href="https://ivory-app.com" src="https://i.imgur.com/JRKLkiS.png" alt="drawing" width="200"/>
+  <div> <a href="https://ivory-app.com">https://ivory-app.com</a></div>
+
 
 
 ## Main programming languages 
