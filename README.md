@@ -5,8 +5,10 @@ I'm a full-stack freelancer with over eight years of experience in C# and the .N
 
 ### **Current Project:** 
 
-<div style="display:flex;flex-grow:1;flex-direction:column;align-items:start;justify-content:start;gap:12px">
-  <span>Piano transcription / learning app using deep neural networks.</span>
+> Im currently working on Ivory, its a piano transcription tool / learning app using deep neural networks to transcribe piano notes from an audio file.
+
+<div style="display:flex;flex-grow:1;flex-direction:column;align-items:center;justify-content:center;gap:12px">
+ 
   
  
   <img src="https://i.imgur.com/JRKLkiS.png" alt="drawing" width="200"/>
