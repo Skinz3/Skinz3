@@ -7,7 +7,7 @@ I'm a full-stack freelancer with over eight years of experience in C# and the .N
 
 Piano transcription / learning app using deep neural networks.
 https://ivory-app.com 🎹.  
-<img src="https://i.imgur.com/7pu1iUG.png" alt="drawing" width="200"/>
+<img src="https://imgur.com/aZdIi9g" alt="drawing" width="200"/>
 
 
 ## Main programming languages 
