@@ -1,7 +1,12 @@
 
 ## Hi there
 
-I'm a full-stack freelancer with over eight years of experience in C# and the .NET ecosystem. I specialize in developing libraries and a wide variety of tools, with a strong passion for data processing and language modeling. Currently, I'm focused on AI projects, particularly those related to music.
+Backend architect and full-stack developer who loves turning complex ideas into products people actually use. Over the last eight years I’ve specialised in designing resilient, cloud-native systems with C#/.NET, Python and JavaScript while keeping one foot firmly in the machine-learning world.
+
+I’m the creator and technical lead behind Ivory (ivory-app.com), an AI-powered platform that converts raw piano audio into perfectly timed notes and interactive sheet music. From the very first line of code I shaped Ivory’s micro-service architecture, trained custom neural networks and built a Vue-driven web experience that lets pianists record, upload or paste a YouTube link and receive an editable transcription in seconds. 
+ivory-app.com
+
+Beyond Ivory I’ve delivered dozens of libraries, developer tools and data-processing pipelines for clients across Europe — from low-latency game emulators to Firestore ORMs. My tool-belt includes, RabbitMQ, PyTorch, GCP and the occasional foray into Unity or C++. I thrive on green-field challenges where backend scalability, ML experimentation and delightful front-end UX meet.
 
 ### **Current Project:** 
 
