@@ -4,7 +4,6 @@
 Backend architect and full-stack developer who loves turning complex ideas into products people actually use. Over the last eight years I’ve specialised in designing resilient, cloud-native systems with C#/.NET, Python and JavaScript while keeping one foot firmly in the machine-learning world.
 
 I’m the founded and technical lead behind Ivory (ivory-app.com), an AI-powered platform that converts raw piano audio into perfectly timed notes and interactive sheet music delivering hundreds of pianists every month, using proprietary neural networks and built a Vue-driven web experience that lets pianists record, upload or paste a YouTube link and receive an editable transcription in seconds. 
-ivory-app.com
 
 Beyond Ivory I’ve delivered dozens of libraries, developer tools and data-processing pipelines for clients across Europe — from low-latency game emulators to Firestore ORMs. My tool-belt includes, RabbitMQ, PyTorch, GCP and the occasional foray into Unity or C++. I thrive on green-field challenges where backend scalability, ML experimentation and delightful front-end UX meet.
 
