@@ -1,7 +1,7 @@
 
 ## Hi there
-
-Backend architect and full-stack developer who loves turning complex ideas into products people actually use. Over the last eight years I’ve specialised in designing resilient, cloud-native systems with C#/.NET, Python and JavaScript while keeping a strong focus on machine learning.
+Im Marius (FR/EN), 
+a Backend architect and full-stack developer who loves turning complex ideas into products people actually use. Over the last eight years I’ve specialised in designing resilient, cloud-native systems with C#/.NET, Python and JavaScript while keeping a strong focus on machine learning.
 
 I’m the founder and technical lead behind [Ivory](https://ivory-app.com), an AI-powered platform that converts **raw piano audio into music notation**, delivering hundreds of pianists every month, using proprietary neural networks wrote from scratch and built a Vue-driven web experience that lets pianists record, upload or paste a YouTube link and receive an editable transcription in seconds. 
 
@@ -13,17 +13,16 @@ Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/marius-lumbroso
 
   <img href="https://ivory-app.com" src="https://i.imgur.com/JRKLkiS.png" alt="drawing" width="200"/>
    <a href="https://ivory-app.com">https://ivory-app.com</a>
+   
 
-
-
-## Main programming languages 
+## Programming language of expertise
 
 ![C Sharp Badge](https://img.shields.io/badge/C%20Sharp-239120?logo=csharp&logoColor=fff&style=for-the-badge)
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
 
 
-## Most used technologies
+## Technologies of expertise
 
 ![.NET](	https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Pytorch](https://img.shields.io/badge/PyTorch%20-%23EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white)
