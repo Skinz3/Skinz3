@@ -1,30 +1,31 @@
+## Marius Lumbroso
+**Backend Architect | AI Developer | MIR Researcher**
 
-## Hi there
-Im Marius (FR/EN), 
-a Backend architect and full-stack developer who loves turning complex ideas into products people actually use. Over the last eight years I’ve specialised in designing resilient, cloud-native systems with C#/.NET, Python and JavaScript while keeping a strong focus on machine learning.
+I am a software architect and developer with over eight years of experience engineering resilient, cloud-native systems and data-processing pipelines. My core expertise lies in C#/.NET, Python, and JavaScript, with a specialized focus on machine learning and digital signal processing.
 
-I’m the founder and technical lead behind [Ivory](https://ivory-app.com), an AI-powered platform that converts **raw piano audio into music notation**, delivering hundreds of pianists every month, using proprietary neural networks wrote from scratch and built a Vue-driven web experience that lets pianists record, upload or paste a YouTube link and receive an editable transcription in seconds. 
+Currently, I am the founder and lead architect behind [Ivory](https://ivory-app.com), an advanced piano transcription tool. My primary work involves researching and developing proprietary Artificial Intelligence models dedicated to Music Information Retrieval (MIR). These neural networks—engineered and trained entirely from scratch—are designed to solve complex polyphonic transcription challenges, converting raw piano audio into highly accurate, editable music notation. 
 
-Beyond Ivory I’ve delivered dozens of libraries, developer tools and data-processing pipelines for clients across Europe.
+Ivory serves thousand of pianists monthly, powered by a robust backend and a Vue-driven web interface that instantly processes direct audio uploads and YouTube streams. Beyond Ivory, I continue to architect libraries, developer tools, and scalable infrastructures for enterprise clients across Europe.
 
-Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/marius-lumbroso-fr-en-2bb66621a/?locale=en_US).
+### **Ivory: Automatic music transcription** 
 
-### **Current Project:** 
+<a href="https://ivory-app.com">
+  <img src="https://i.ibb.co/m5ctkVrd/Screenshot-2026-02-11-171342.png" alt="Ivory App Interface" width="400"/>
+</a>
+<br>
+<a href="https://ivory-app.com">ivory-app.com</a>
 
-  <img href="https://ivory-app.com" src="https://i.imgur.com/JRKLkiS.png" alt="drawing" width="200"/>
-   <a href="https://ivory-app.com">https://ivory-app.com</a>
-   
+<br>
 
-## Programming language of expertise
+## Languages
 
 ![C Sharp Badge](https://img.shields.io/badge/C%20Sharp-239120?logo=csharp&logoColor=fff&style=for-the-badge)
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
 
+## Technologies & Frameworks
 
-## Technologies of expertise
-
-![.NET](	https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Pytorch](https://img.shields.io/badge/PyTorch%20-%23EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![GitAction](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
@@ -44,10 +45,8 @@ Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/marius-lumbroso
 ![Visual Studio Badge](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&style=for-the-badge)
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=for-the-badge)
 
-
 ## Contact 
 
-- Email  : <lumbroso.marius@gmail.com>
-- Discord : ```skinz3```
-- [![lkn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marius-lumbroso-fr-en-2bb66621a)
-
+- **Email:** <lumbroso.marius@gmail.com>
+- **Discord:** `skinz3`
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marius-lumbroso-fr-en-2bb66621a)
