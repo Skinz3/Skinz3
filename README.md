@@ -5,7 +5,7 @@ I am a software architect and developer with over eight years of experience engi
 
 Currently, I am the founder and lead architect behind [Ivory](https://ivory-app.com), an advanced piano transcription tool. My primary work involves researching and developing proprietary Artificial Intelligence models dedicated to Music Information Retrieval (MIR). These neural networks engineered and trained entirely from scratch are designed to solve complex polyphonic transcription challenges, converting raw piano audio into highly accurate, editable music notation. 
 
-Ivory serves thousand of pianists monthly, powered by a robust backend and a Vue-driven web interface that instantly processes direct audio uploads and YouTube streams. Beyond Ivory, I continue to architect libraries, developer tools, and scalable infrastructures for enterprise clients across Europe.
+Beyond engineering, I run Ivory end to end: negotiating licensing agreements with major music publishers, structuring IP and equity matters, and managing legal, financial and growth operations. Comfortable operating where technology, intellectual property and commercial strategy meet.
 
 ### **Ivory: Automatic music transcription** 
 
