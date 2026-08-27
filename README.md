@@ -1,5 +1,5 @@
 ## Marius Lumbroso
-**Backend Architect | AI Developer | MIR Researcher**
+**Backend Architect | MIR Researcher**
 
 I am a software architect and developer with over eight years of experience engineering resilient, cloud-native systems and data-processing pipelines. My core expertise lies in C#/.NET, Python, and JavaScript, with a specialized focus on machine learning and digital signal processing.
 
